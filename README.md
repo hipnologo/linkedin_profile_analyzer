@@ -2,6 +2,12 @@
 
 The LinkedIn Profile Analyzer is a Python application that analyzes your LinkedIn profile and provides suggestions for improvement. It uses the LinkedIn API to extract relevant information from your profile, and the Spacy library to analyze the text and identify areas for improvement. The application is designed to be run in a web browser using the Streamlit library.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Forks](https://img.shields.io/github/forks/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/network/members)
+[![Stars](https://img.shields.io/github/stars/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/stargazers)
+[![Issues](https://img.shields.io/github/issues/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/graphs/contributors)
+
 ## Installation
 
 To run the LinkedIn Profile Analyzer, you will need to install the following libraries:
