@@ -3,10 +3,10 @@
 The LinkedIn Profile Analyzer is a Python application that analyzes your LinkedIn profile and provides suggestions for improvement. It uses the LinkedIn API to extract relevant information from your profile, and the Spacy library to analyze the text and identify areas for improvement. The application is designed to be run in a web browser using the Streamlit library.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Forks](https://img.shields.io/github/forks/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/network/members)
-[![Stars](https://img.shields.io/github/stars/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/stargazers)
-[![Issues](https://img.shields.io/github/issues/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/hipnologo/LinkedIn_Profile_Analyzer)](https://github.com/hipnologo/LinkedIn_Profile_Analyzer/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/hipnologo/linkedIn_profile_analyzer)](https://github.com/hipnologo/linkedIn_profile_analyzer/network/members)
+[![Stars](https://img.shields.io/github/stars/hipnologo/linkedIn_profile_analyzer)](https://github.com/hipnologo/linkedIn_profile_analyzer/stargazers)
+[![Issues](https://img.shields.io/github/issues/hipnologo/linkedIn_profile_analyzer)](https://github.com/hipnologo/linkedIn_profile_analyzer/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/hipnologo/linkedIn_profile_analyzer)](https://github.com/hipnologo/linkedIn_profile_analyzer/graphs/contributors)
 
 ## Installation
 
@@ -65,7 +65,7 @@ The LinkedIn Profile Analyzer is licensed under the MIT license. See `LICENSE` f
 
 Fabio Carvalho - [@fabioac](https://twitter.com/fabioac)
 
-Project Link: [https://github.com/hipnologo/eda-tool](https://github.com/hipnologo/eda-tool)
+Project Link: [https://github.com/hipnologo/linkedIn_profile_analyzer](https://github.com/hipnologo/linkedIn_profile_analyzer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
