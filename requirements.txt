@@ -1,0 +1,5 @@
+linkedin_api==1.1.0
+openai==0.26.1
+PyPDF2==3.0.1
+spacy==3.5.0
+streamlit==1.19.0

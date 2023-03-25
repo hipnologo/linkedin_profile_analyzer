@@ -39,8 +39,33 @@ This will launch the Streamlit interface in your web browser. Enter your LinkedI
 
 ## Contributing
 
-If you would like to contribute to the LinkedIn Profile Analyzer, please fork the repository and submit a pull request.
+We welcome contributions to this project! If you have an idea for a feature or bug fix, follow these steps to contribute:
 
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes to the new branch.
+4. Push the branch to your forked repository.
+5. Submit a pull request to the original repository.
+
+Make sure to follow the code style and add test cases for any new code. If you have any questions, don't hesitate to ask the repository maintainers.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- LICENSE -->
 ## License
 
-The LinkedIn Profile Analyzer is licensed under the MIT license. See LICENSE.md for details.
+The LinkedIn Profile Analyzer is licensed under the MIT license. See `LICENSE` for details.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Fabio Carvalho - [@fabioac](https://twitter.com/fabioac)
+
+Project Link: [https://github.com/hipnologo/eda-tool](https://github.com/hipnologo/eda-tool)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
