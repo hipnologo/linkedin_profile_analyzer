@@ -1,6 +1,6 @@
 # LinkedIn Profile Analyzer
 
-The LinkedIn Profile Analyzer is a Python application that analyzes your LinkedIn profile and provides suggestions for improvement. It uses the LinkedIn API to extract relevant information from your profile, and the Spacy library to analyze the text and identify areas for improvement. The application is designed to be run in a web browser using the Streamlit library.
+The LinkedIn Profile Analyzer is a Python application that analyzes your LinkedIn profile and provides suggestions for improvement. It uses the LinkedIn API to extract relevant information from your profile, and the Spacy library to analyze the text and identify areas for improvement. The application is designed to be run in a web browser using the Streamlit library. It uses NLP for natural language processing and analysis, and its powered by the OpenAI API for summarization and recommendations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Forks](https://img.shields.io/github/forks/hipnologo/linkedIn_profile_analyzer)](https://github.com/hipnologo/linkedIn_profile_analyzer/network/members)
@@ -16,6 +16,7 @@ To run the LinkedIn Profile Analyzer, you will need to install the following lib
 - `linkedin-api`
 - `spacy`
 - `en_core_web_sm`
+- `openai`
 
 You can install these libraries using the following command:
 
@@ -34,6 +35,7 @@ To run the LinkedIn Profile Analyzer, navigate to the directory where the code i
 ```
 streamlit run linkedin_analyzer.py
 ```
+Note: OPENAI_API_KEY will be needed in order to use the ChatGPT API.
 
 This will launch the Streamlit interface in your web browser. Enter your LinkedIn profile URL and click "Analyze" to view the analysis and suggestions.
 
